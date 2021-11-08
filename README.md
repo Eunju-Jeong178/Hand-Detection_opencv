@@ -1,1 +1,1 @@
-# Hand-Detection_opencv-c-
+# Hand-Detection_opencv_c++
