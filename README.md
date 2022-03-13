@@ -1,4 +1,4 @@
-# Hand-Detection
+# HandDetection
 
 * OpenCV 4.3.0
 * C++
